@@ -1,7 +1,7 @@
 **Sales Analysis Project**
 
-  *This repository contains a Power BI project focused on analyzing sales data to provide insights into sales trends, customer behavior, and product performance. 
-  *The project aims to assist businesses in making data-driven decisions to enhance their sales strategies.
+  This repository contains a Power BI project focused on analyzing sales data to provide insights into sales trends, customer behavior, and product performance. 
+  The project aims to assist businesses in making data-driven decisions to enhance their sales strategies.
 
 **Project Overview**
 
