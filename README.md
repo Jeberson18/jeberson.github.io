@@ -69,3 +69,8 @@
 
 
     Contributions are welcome! Please create an issue to discuss potential changes before submitting a pull request.
+
+
+**Documentation**
+
+    For detailed documentation about this project, including in-depth explanations of features, methodologies, and analysis, refer to the Documentation.
