@@ -72,4 +72,4 @@
 
 **Documentation**
 
-  For detailed documentation about this project, including in-depth explanations of features, methodologies, and analysis, refer to the Documentation. Optimizing Sales and Profit.pdf
+  For detailed documentation about this project, including in-depth explanations of features, methodologies, and analysis, refer to the Documentation. file:///C:/Users/joeje/AppData/Local/Temp/MicrosoftEdgeDownloads/dce044d0-5dfb-46d0-a9fb-24f964c35e50/Optimizing%20Sales%20and%20Profit.pdf
