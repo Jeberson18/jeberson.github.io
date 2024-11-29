@@ -50,7 +50,7 @@
 
    bash
    Copy code
-   git clone https://github.com/yourusername/sales-analysis-project.git
+   git clone https://github.com/Jeberson18/sales-analysis-project.git
    cd sales-analysis-project
    Open the Power BI File: Open Sales Analysis Project.pbix using Power BI Desktop.
 
